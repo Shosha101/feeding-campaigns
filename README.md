@@ -1,7 +1,4 @@
-Perfect 👍 I’ll create a professional **README.md** file for your GitHub repository based on your idea in the PDF (تطبيق حملات الإطعام).
-Here’s a suggested version:
 
----
 
 # 🍲 Food Donation Campaigns Platform
 
